@@ -1,0 +1,45 @@
+<!-- prettier-ignore-start -->
+# Remote Flutter Jobs — 2026
+
+<sub><small>Last updated: Jun 30, 2026 at 17:54 UTC</small></sub>
+
+Daily remote Flutter jobs curated by Jobs in Flutter.
+Updated daily by [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs).
+
+Visit [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs) for the full live board, filtering, and employer details.
+
+## Current Openings
+
+_No current openings matched this board today. Check back tomorrow._
+
+---
+
+**Current Stats:** 0 jobs
+_Note: Stats are based on the current generated GitHub snapshot._
+
+## Archive
+
+- [2026-06-30 archive](archive/2026-06-30.md)
+
+## About This Repository
+
+This repository tracks **Remote Flutter Jobs** from Jobs in Flutter. The README is regenerated daily so GitHub can act as a fresh, indexable distribution surface for job seekers searching inside this niche.
+
+## For Job Seekers
+
+- Star this repository to see updates in your GitHub feed.
+- Check the archive for recent hiring trends.
+- Use [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs) when you want the complete searchable job board.
+
+## For Employers
+
+Reach candidates already searching for **Remote Flutter Jobs** by posting on [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs).
+
+## Related Job Repositories
+
+- [Flutter Jobs](https://github.com/jobsinflutter/Flutter-Jobs)
+
+---
+
+**Made by [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs)**
+<!-- prettier-ignore-end -->
