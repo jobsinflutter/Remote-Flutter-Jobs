@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Flutter Jobs — 2026
 
-<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2026 at 18:43 UTC</small></sub>
 
 Daily remote Flutter jobs curated by Jobs in Flutter.
 Updated daily by [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs).
@@ -26,7 +26,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-22 archive](archive/2026-10-22.md)
+- [2026-10-29 archive](archive/2026-10-29.md)
 
 ## About This Repository
 
