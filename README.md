@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Flutter Jobs — 2026
 
-<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2026 at 19:09 UTC</small></sub>
 
 Daily remote Flutter jobs curated by Jobs in Flutter.
 Updated daily by [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs).
@@ -13,17 +13,16 @@ Visit [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=r
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
 | **[GlobalLogic](https://jobsinflutter.com/jobs/globallogic-senior-flutter-developer-irc303863-a5692960?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs)** | **[Senior Flutter Developer IRC303863](https://jobsinflutter.com/jobs/globallogic-senior-flutter-developer-irc303863-a5692960?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs)** | Ukraine | Remote | Full Time | Sep 4 |
-| **[NinjaTrader](https://jobsinflutter.com/jobs/ninjatrader-sr-mobile-engineer-i-660189c1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs)** | **[Sr. Mobile Engineer I](https://jobsinflutter.com/jobs/ninjatrader-sr-mobile-engineer-i-660189c1?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs)** | Chicago or Remote* | Remote | Full Time | Aug 24 |
 | **[Jumio](https://jobsinflutter.com/jobs/jumio-principal-ios-engineer-170609c0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs)** | **[Principal iOS Engineer](https://jobsinflutter.com/jobs/jumio-principal-ios-engineer-170609c0?utm_source=github&utm_medium=repo&utm_campaign=github-remote-flutter-jobs)** | India (remote) | Remote | Full Time | Jul 15 |
 
 ---
 
-**Current Stats:** 3 jobs | 100% remote | 3 companies | 0 salary ranges listed
+**Current Stats:** 2 jobs | 100% remote | 2 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-20 archive](archive/2026-11-20.md)
+- [2026-11-21 archive](archive/2026-11-21.md)
 
 ## About This Repository
 
